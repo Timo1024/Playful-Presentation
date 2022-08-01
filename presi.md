@@ -2,7 +2,7 @@
 marp: true
 theme: gaia
 _class: lead
-paginate: false #Seitenzahl
+paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
@@ -13,14 +13,12 @@ footer: 'Teamprojekt ...'
 # Teamprojekt - Playful
 ![width:150px height:150px](./playful_grey_v2.3Zeichenfl%C3%A4che%201.png)
 
-
-
 ---
 
 # Ablauf 1/3
 
 1. Teaser
-   - webseite auf Server erstellen (Lutz)
+   - webseite auf Server erstellen
      - Clone Repo
      - Datenbank
      - npm install
