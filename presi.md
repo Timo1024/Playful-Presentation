@@ -70,7 +70,8 @@ refactoring, dass alles auf einer html-Seite ist
 - Man lädt immer eine neue UI, wenn man die Seite wechseln möchte
 - Die URL bleibt immer gleich
 - Vorteile:
-  - TODO
+  - Variablen müssen nicht unter verschiedenen Seiten ausgetauscht werden, sondern sind immer bekannt
+  - Man könnte aus einem Spiel raustabben und sich die Achievements anschauen ohne, dass das aktuelle Spiel unterbrochen wird
 - Wieso bisher nicht gemacht?
   - Mit anderem Ansatz angefangen
   - Im laufe der Zeit gemerkt, dass anderer Ansatz einige Dinge einfacher macht
