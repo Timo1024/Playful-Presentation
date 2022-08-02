@@ -179,7 +179,7 @@ Probleme
 
 ---
 
-![bg left:40% height:90%](./images/colors_greyscale.svg)
+![bg left:40% height:90%](./images/colors_greyscale_noBackground.svg)
 # Styling
 ## *Accessibility*
 
