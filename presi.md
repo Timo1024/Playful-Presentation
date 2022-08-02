@@ -1,17 +1,58 @@
 ---
 marp: true
-theme: gaia
+theme: uncover
 _class: lead
 paginate: true
 backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+# backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 header:  'Playful 2022'
 footer: 'Teamprojekt ...'
 ---
 
+<!-- theme gaia -->
+
 # Teamprojekt - Playful
-![width:150px height:150px](./playful_grey_v2.3Zeichenfl%C3%A4che%201.png)
+![width:200px height:200px](./images/playful_logo_dark_grey.svg)
+
+---
+
+![bg left:40% height:90%](./images/colors_greyscale.svg)
+# Design
+## Barrierefreiheit
+
+<!-- 
+Schwarz-Weiß
+Farbschwächen
+etc
+-->
+
+---
+
+# Ausblick
+## Frontend
+
+<!-- 
+
+-->
+
+---
+
+![bg left:40% height:90%](./images/new_game_noBackground_withText.svg)
+# Ausblick 
+## Extensibility
+
+<!-- 
+Automatisieren der Einbindung von Spielen
+Alle wichtigen Verknüpfungen werden erstellt
+Alle Template Dateien werden erstellt
+User muss nur an wenigen Stellen eigenen Code einfügen
+-->
+
+---
+
+# Ausblick
+## ...
 
 ---
 
