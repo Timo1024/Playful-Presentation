@@ -19,28 +19,28 @@ footer: 'Teamprojekt ...'
 
 ![bg left:40% height:90%](./images/colors_greyscale.svg)
 # Design
-## Barrierefreiheit
+## *Barrierefreiheit*
 
 <!-- 
 Schwarz-Weiß
 Farbschwächen
-etc
+etc.
 -->
 
 ---
 
 # Ausblick
-## Frontend
+## *Neue Features*
 
 <!-- 
-
+Freundeslisten + Einladungen
 -->
 
 ---
 
 ![bg left:40% height:90%](./images/new_game_noBackground_withText.svg)
 # Ausblick 
-## Extensibility
+## *Extensibility*
 
 <!-- 
 Automatisieren der Einbindung von Spielen
@@ -51,10 +51,32 @@ User muss nur an wenigen Stellen eigenen Code einfügen
 
 ---
 
+![bg right:42%](./images/code_interface_cut.png)
 # Ausblick
-## ...
+## *Maintainability*
+## *Testibility*
+
+<!--  
+Interfaces zu den UIs von den Spielen
+- Um tests schreiben zu können mit dummy UIs
+- Um sich auf bestimmte Dinge verlassen zu können
+  - Funktionen
+  - Andere Elemente
+
+refactoring, dass alles auf einer html-Seite ist
+- Man lädt immer eine neue UI, wenn man die Seite wechseln möchte
+- Die URL bleibt immer gleich
+- Vorteile:
+  - TODO
+- Wieso bisher nicht gemacht?
+  - Mit anderem Ansatz angefangen
+  - Im laufe der Zeit gemerkt, dass anderer Ansatz einige Dinge einfacher macht
+  - Zeit hat gefehlt, das ganze Projekt umzustrukturieren
+-->
 
 ---
+
+<!-- ---
 
 # Ablauf 1/3
 
@@ -81,4 +103,4 @@ User muss nur an wenigen Stellen eigenen Code einfügen
 5. Was haben wir weggelassen und was sollte/kann man in Zukunft noch als Feature hinzufügen?
 6. Live-Demo
 
----
+--- -->
