@@ -66,7 +66,7 @@ Kleine Aufgaben zwischen den Meetings, um gelerntes anwenden zu können
 ---
 
 ![bg left:26.4%](./images/miro.png)
-# Selbständige Planung
+# Independent planning
 ## *Scrum Meetings*
 
 <!--
@@ -76,8 +76,8 @@ Aufgabenverteilung
 
 ---
 
-# Selbständige Planung
-## *Spielwahl*
+# Independent planning
+## *Game selection*
 
 <!-- 
 erst mal Connect-4
@@ -181,7 +181,7 @@ Probleme
 
 ![bg left:40% height:90%](./images/colors_greyscale.svg)
 # Styling
-## *Barrierefreiheit*
+## *Accessibility*
 
 <!-- 
 Schwarz-Weiß
@@ -191,8 +191,8 @@ etc.
 
 ---
 
-# Ausblick
-## *Neue Features*
+# Outlook
+## *New Features*
 
 <!-- 
 Freundeslisten + Einladungen
@@ -201,7 +201,7 @@ Freundeslisten + Einladungen
 ---
 
 ![bg left:40% height:90%](./images/new_game_noBackground_withText.svg)
-# Ausblick 
+# Outlook 
 ## *Extensibility*
 
 <!-- 
@@ -214,7 +214,7 @@ User muss nur an wenigen Stellen eigenen Code einfügen
 ---
 
 ![bg right:42%](./images/code_interface_cut.png)
-# Ausblick
+# Outlook
 ## *Maintainability*
 ## *Testibility*
 
@@ -238,32 +238,3 @@ refactoring, dass alles auf einer html-Seite ist
 -->
 
 ---
-
-<!-- ---
-
-# Ablauf 1/3
-
-1. Teaser
-   - webseite auf Server erstellen
-     - Clone Repo
-     - Datenbank
-     - npm install
-     - npm run build-dev+serve
-   - Kurz die Seite zeigen
-
----
-
-# Ablauf 2/3
-
-2. ...
-3. ...
-4. ...
-
----
-
-# Ablauf 3/3
-
-5. Was haben wir weggelassen und was sollte/kann man in Zukunft noch als Feature hinzufügen?
-6. Live-Demo
-
---- -->
