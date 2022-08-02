@@ -2,7 +2,6 @@
 marp: true
 theme: uncover
 _class: lead
-paginate: true
 backgroundColor: #fff
 # backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
@@ -12,10 +11,14 @@ footer: 'Teamprojekt ...'
 
 <!-- theme gaia -->
 
+<!-- paginate: false -->
+
 # Teamprojekt - Playful
 ![width:200px height:200px](./images/playful_logo_dark_grey.svg)
 
 ---
+
+<!-- paginate: true -->
 
 ![bg left:40% height:90%](./images/colors_greyscale.svg)
 # Design
