@@ -171,6 +171,17 @@ Anforderungen
 Nutzen
 Probleme
 -->
+---
+
+# Server Communication
+
+- socket.io
+
+---
+
+# Styling - Logo
+- Key Elements of our Games
+![width:400px](./images/playful_logo_grey.png)
 
 ---
 
@@ -178,6 +189,7 @@ Probleme
 ## *...*
 
 ---
+
 
 ![bg left:40% height:90%](./images/colors_greyscale_noBackground.svg)
 # Styling
